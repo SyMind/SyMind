@@ -1,1 +1,1 @@
-👋 这里是一个充满好奇心的前端菜鸟！
+👋 I'm a developer writing code for web applications!
