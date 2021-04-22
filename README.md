@@ -1,4 +1,4 @@
-👋 Passionate Front End Developer, JavaScript Enthusiast.
+👋 Programming with love. Constantly learning and challenging myself.
 
 🌱 I’m currently learning Golang.
 
