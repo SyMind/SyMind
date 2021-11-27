@@ -1,4 +1,4 @@
-👋 Programming with love. Constantly learning and challenging myself.
+👋 Interested in JavaScript & React. Constantly learning and challenging myself.
 
 🌱 I’m currently learning Golang.
 
