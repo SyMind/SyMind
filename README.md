@@ -7,6 +7,6 @@
 * 让重复的工作自动化。
 * 定义一般问题并提供解决方案。
 * 减少需做决定的数量。
-* 工具应当稳定且高效。
+* 工具应当稳定、高效且灵活。
 
 ![](https://github-readme-stats.vercel.app/api?username=SyMind&show_icons=true&count_private=true)
