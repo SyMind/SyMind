@@ -9,4 +9,8 @@
 * 减少需做决定的数量。
 * 工具应当稳定、高效且灵活。
 
+🫥 10 月不想写代码。
+
+🤪 间歇性开发工具，持续性制造垃圾。
+
 ![](https://github-readme-stats.vercel.app/api?username=SyMind&show_icons=true&count_private=true)
