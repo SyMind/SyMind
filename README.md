@@ -1,3 +1,5 @@
+### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace;"><Introduction\/></p>
+
 👋 不断学习并挑战自己。
 
 🌱 正在学习 Golang & Rust。
@@ -12,5 +14,7 @@
 😕 10月不适合写代码。
 
 🤪 间歇性开发工具，持续性制造垃圾。
+
+### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace;"><GitHub Stats\/></p>
 
 ![](https://github-readme-stats.vercel.app/api?username=SyMind&show_icons=true&count_private=true)
