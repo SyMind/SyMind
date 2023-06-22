@@ -1,19 +1,19 @@
 ### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace;"><Introduction\/></p>
 
-👋 不断学习并挑战自己。
+👋 Keep learning and challenging yourself.
 
-🌱 正在学习 Golang & Rust。
+🌱 Currently learning Golang & Rust.
 
-🤔 如何让前端开发更加愉悦？
+🤔 How to make front-end development more enjoyable?
 
-* 让重复的工作自动化。
-* 定义一般问题并提供解决方案。
-* 减少需做决定的数量。
-* 工具应当稳定、高效且灵活。
+* Automate repetitive tasks.
+* Define common problems and provide solutions.
+* Reduce the number of decisions to be made.
+* Tools should be stable, efficient, and flexible.
 
-😕 10月不适合写代码。
+😕 October is not a good month for coding.
 
-🤪 间歇性开发工具，持续性制造垃圾。
+🤪 Intermittent development tools, continuous garbage production.
 
 ### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace;"><GitHub Stats\/></p>
 
