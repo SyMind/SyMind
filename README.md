@@ -2,7 +2,7 @@
 
 👋 Keep learning and challenging yourself.
 
-🌱 Currently learning Golang & Rust.
+🌱 Currently learning English.
 
 🤔 How to make front-end development more enjoyable?
 
