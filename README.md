@@ -1,8 +1,8 @@
 ### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace;"><Introduction\/></p>
 
-👋 Keep learning and challenging yourself.
+🌱 **Actively studying compiler principles systematically and eager to engage in compiler-related work.**
 
-🌱 Currently learning English.
+👋 Keep learning and challenging yourself.
 
 🤔 How to make front-end development more enjoyable?
 
