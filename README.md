@@ -17,6 +17,4 @@
 
 ### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace;"><GitHub Stats\/></p>
 
-![](https://komarev.com/ghpvc/?username=SyMind)
-
 ![](https://github-readme-stats.vercel.app/api?username=SyMind&show_icons=true&count_private=true)
